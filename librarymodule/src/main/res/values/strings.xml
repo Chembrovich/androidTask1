@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Library Module</string>
+    <string name="lib_text_view_string">Hello, AndroidLab!</string>
+</resources>
